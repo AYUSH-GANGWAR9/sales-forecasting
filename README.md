@@ -171,7 +171,7 @@ streamlit run app/streamlit_app.py
 🎓 Computer Science Undergraduate | ML & Data Science Enthusiast
 📧 ayushgang9114@gmail.com
 ]
-# 🌐 LinkedIn : https://www.linkedin.com/in/ayush-gangwar-8a856b272/
+🌐 LinkedIn : https://www.linkedin.com/in/ayush-gangwar-8a856b272/
 
 # 💡 Future Improvements
 
