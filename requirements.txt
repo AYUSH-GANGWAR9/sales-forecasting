@@ -12,3 +12,5 @@ streamlit
 plotly
 pmdarima
 tqdm
+fastapi
+uvicorn
