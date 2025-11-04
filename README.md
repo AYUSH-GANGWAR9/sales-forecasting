@@ -1,4 +1,4 @@
-## 🧠 Sales Forecasting — Time Series Modeling
+# 🧠 Sales Forecasting — Time Series Modeling
 
 🔮 An end-to-end sales forecasting system combining classical time-series models and deep learning to predict future demand.
 
